@@ -7,4 +7,4 @@ This is a PyTorch implementation on this method. Instead of working with all VGG
 
 Instead of iterate over the process of pruning and retraining, we do pruning once and iterate retraining.
 
-Result: We pruned a total of X parameters with a loss of accuracy of X%
+Result: We pruned a total of 9065 parameters with an only loss of accuracy of 2%
